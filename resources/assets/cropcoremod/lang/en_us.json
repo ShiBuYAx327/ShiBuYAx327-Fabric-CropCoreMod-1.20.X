@@ -1,0 +1,62 @@
+{
+  "item.cropcoremod.pink_garnet": "Pink Garnet",
+  "item.cropcoremod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.cropcoremod.chisel": "Chiesl",
+  "item.cropcoremod.cauliflower": "Cauliflower",
+  "item.cropcoremod.starlight_ashes": "Starlight Ashes",
+
+  "item.cropcoremod.pink_garnet_sword": "Pink Garnet Sword",
+  "item.cropcoremod.pink_garnet_pickaxe": "Pink Garnet Pickaxe",
+  "item.cropcoremod.pink_garnet_shovel": "Pink Garnet Shovel",
+  "item.cropcoremod.pink_garnet_axe": "Pink Garnet Axe",
+  "item.cropcoremod.pink_garnet_hoe": "Pink Garnet Hoe",
+
+  "item.cropcoremod.pink_garnet_hammer": "Pink Garnet Hammer",
+
+  "item.cropcoremod.pink_garnet_helmet": "Pink Garnet Helmet",
+  "item.cropcoremod.pink_garnet_chestplate": "Pink Garnet Chestplate",
+  "item.cropcoremod.pink_garnet_leggings": "Pink Garnet Leggings",
+  "item.cropcoremod.pink_garnet_boots": "Pink Garnet Boots",
+
+  "item.cropcoremod.pink_garnet_horse_armor": "Pink Garnet Horse Armor",
+  "item.cropcoremod.kaupen_armor_trim_smithing_template": "Kaupen Smithing Template",
+
+
+  "item.cropcoremod.iron_stick" : "Iron Stick",
+
+  "block.cropcoremod.pink_garnet_block": "Block of Pink Garnet",
+  "block.cropcoremod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+
+  "block.cropcoremod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.cropcoremod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
+  "block.cropcoremod.magic_block": "Magic Block",
+
+  "block.cropcoremod.pink_garnet_stairs": "Pink Garnet Stairs",
+  "block.cropcoremod.pink_garnet_slab": "Pink Garnet Slab",
+
+  "block.cropcoremod.pink_garnet_button": "Pink Garnet Button",
+  "block.cropcoremod.pink_garnet_pressure_plate": "Pink Garnet Pressure Plate",
+
+  "block.cropcoremod.pink_garnet_fence": "Pink Garnet Fence",
+  "block.cropcoremod.pink_garnet_fence_gate": "Pink Garnet Fence Gate",
+  "block.cropcoremod.pink_garnet_wall": "Pink Garnet Wall",
+
+  "block.cropcoremod.pink_garnet_door": "Pink Garnet Door",
+  "block.cropcoremod.pink_garnet_trapdoor": "Pink Garnet Trapdoor",
+
+  "block.cropcoremod.pink_garnet_lamp": "Pink Garnet Lamp",
+
+  "itemgroup.cropcoremod.pink_garnet_items": "Pink Garnet Items",
+  "itemgroup.cropcoremod.pink_garnet_blocks": "Pink Garnet Blocks",
+  "itemgroup.cropcoremod.pink_garnet_tool": "Pink Garnet Tool",
+
+  "tooltip.cropcoremod.magic_block.tooltip": "This block is very, very §9MAGICAL",
+
+  "tooltip.cropcoremod.chisel.shift_down" : "This item chisels blocks into Bricks!",
+  "tooltip.cropcoremod.chisel": "Press §eShift§r for more Information!",
+  "tooltip.cropcoremod.cauliflower.tooltip": "This is §6delicious!",
+
+  "trim_material.cropcoremod.pink_garnet": "Pink Garnet Material",
+  "trim_pattern.cropcoremod.kaupen": "Kaupen Armor Pattern"
+}
