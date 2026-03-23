@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cropcoremod Item Shop</title>
+    <style>
+        /* ทำให้ body เต็มจอ และจัดกลาง */
+        
+        body {
+            display: flex;
+            justify-content: center;
+            /* จัดกลางแนวนอน */
+            align-items: center;
+            /* จัดกลางแนวตั้ง */
+            height: 100vh;
+            /* สูงเต็มหน้าจอ */
+            margin: 0;
+            font-family: sans-serif;
+            background-color: #f8f8f8;
+        }
+        /* กล่องหลักของเนื้อหา */
+        
+        .container {
+            text-align: center;
+            background: white;
+            padding: 20px 40px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        input,
+        button {
+            padding: 8px 12px;
+            margin: 5px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        
+        #items {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>🛒 Cropcoremod Item Shop</h1>
+
+        <!-- กล่องใส่ชื่อผู้เล่น -->
+        <input type="text" id="playerName" placeholder="ใส่ชื่อผู้เล่น">
+        <button onclick="loadItems()">โหลดไอเทม</button>
+
+        <!-- โซนแสดงรายการไอเทม -->
+        <div id="items"></div>
+    </div>
+
+    <!-- โหลดโค้ดจาก items.js -->
+    <script src="items.js"></script>
+</body>
+
+</html>

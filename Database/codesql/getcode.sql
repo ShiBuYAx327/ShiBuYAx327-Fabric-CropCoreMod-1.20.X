@@ -1,0 +1,8 @@
+CREATE TABLE getcode (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  code VARCHAR(50) UNIQUE NOT NULL,   
+  item_id INT NOT NULL,               
+  is_used BOOLEAN DEFAULT FALSE,      
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (item_id) REFERENCES items(id)
+);
